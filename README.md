@@ -46,6 +46,7 @@ Adamson University BS, Computer Science, Aug 2018 - Jul 2022
 
 
 ## Certificates
+To best showcase my skills, I have listed some of the certifiactes I have obtained on my free time.
  - [Google Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/ZD2NGU46DWZ5)
  - [Google Advanced Data Analytics](https://coursera.org/verify/professional-cert/ZFV5YG4M3GHM)
    
