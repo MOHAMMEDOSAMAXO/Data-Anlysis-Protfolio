@@ -16,8 +16,8 @@ My CV is in [PDF](My_resume24.pdf)
 
 
 ## Table of Contents
-- [About]
-- [Portfolio Projects]
+- [About](README.md/#about)
+- [Portfolio Projects](README.md/#Portfolio-Projects)
   - Python
     - [Analyzing the Factors Contributing to the Success of a Movie]
     - [Tech Store Sales Analysis]
