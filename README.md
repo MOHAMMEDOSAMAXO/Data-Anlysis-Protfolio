@@ -16,7 +16,7 @@ My CV is in [PDF](My_resume24.pdf)
 
 
 ## Table of Contents
-- [About
+- [About]
 - [Portfolio Projects]
   - Python
     - [Analyzing the Factors Contributing to the Success of a Movie]
