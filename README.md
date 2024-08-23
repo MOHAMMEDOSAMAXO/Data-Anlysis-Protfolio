@@ -19,16 +19,10 @@ My CV is in [PDF](My_resume24.pdf)
 - [About](README.md/#about)
 - [Portfolio Projects](README.md/#Portfolio-Projects)
   - Python
-    - [Analyzing the Factors Contributing to the Success of a Movie]
-    - [Tech Store Sales Analysis]
-  - SQL
-    - [Covid 19 Data Exploration]
-    - [Nashville Housing Data Cleaning]
-  - R
-    - [Legendary Pokémon Analysis (Study Project)]
-  - Excel / Google Sheets
-  - Tableau---> [go to Tableau..](
-  - Power BI
+    - [Tiktok_EDA]
+    - [Tiktok_ml]
+  
+
   
 
 
