@@ -26,9 +26,9 @@ My CV is in [PDF](my_resume24.pdf)
   
 
 
-- [Education] 
-- [Certificates]
-- [Contact]
+- [Education](README.md/#education) 
+- [Certificates](README.md/#certificates) 
+
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
