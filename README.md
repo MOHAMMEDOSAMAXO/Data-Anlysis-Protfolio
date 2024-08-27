@@ -19,7 +19,7 @@ My CV is in [PDF](my_resume24.pdf)
 - [About](README.md/#about)
 - [Portfolio Projects](README.md/#Portfolio-Projects)
   - Python
-    - [Tiktok_EDA]([Tiktok_eda.ipynb](https://github.com/MOHAMMEDOSAMAXO/Protfolio-projects/blob/main/Tiktok_eda.ipynb)
+    - [Tiktok_EDA](https://github.com/MOHAMMEDOSAMAXO/Protfolio-projects/blob/main/Tiktok_eda.ipynb)
     - [Tiktok_ml]
   
 
