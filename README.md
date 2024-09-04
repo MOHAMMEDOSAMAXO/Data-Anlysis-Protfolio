@@ -19,8 +19,9 @@ My CV is in [PDF](my_resume24.pdf)
 - [About](README.md/#about)
 - [Portfolio Projects](README.md/#Portfolio-Projects)
   - Python
-    - [Tiktok_EDA](https://github.com/MOHAMMEDOSAMAXO/Protfolio-projects/blob/main/Tiktok_eda.ipynb)
-    - [Tiktok_ml](https://github.com/MOHAMMEDOSAMAXO/Protfolio-projects/blob/main/Tiktok_ml.ipynb)
+    - [Tiktok Analysis](https://github.com/MOHAMMEDOSAMAXO/Protfolio-projects/blob/main/Tiktok_eda.ipynb)
+    - [Tiktok ML](https://github.com/MOHAMMEDOSAMAXO/Protfolio-projects/blob/main/Tiktok_ml.ipynb)
+    - [F1 2021 Season analysis](https://github.com/MOHAMMEDOSAMAXO/Protfolio-projects/blob/main/F1_Data_analysis.ipynb)
   
 
   
